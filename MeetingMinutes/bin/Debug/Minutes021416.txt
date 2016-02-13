@@ -1,0 +1,19 @@
+XYZ LLC Co.
+1234 BirdReference, Anytown, U.S. 44114
+"Meeting Minutes"
+
+
+Minutes Recorded By: JIM JONES
+
+Meeting Led By: JANE JAMES
+
+Meeting Type: OUTDOOR ASSOCIATES
+
+Topic:Fun
+Notes: Lots of fun stuff.
+
+Topic:more fun stuff
+Notes: even better
+
+Topic:Hooray
+Notes: BOOOOOOOOOOOOOO
